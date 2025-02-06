@@ -18,6 +18,7 @@ The study utilizes machine learning approaches, specifically **XGBoost** and **D
 ### Results
 - The XGBoost models provided a strong baseline classification, with the second attempt improving due to higher-dimensional input and optimized hyperparameters.
 - The DNN model introduced regularization techniques to further refine classification accuracy.
+- Results are shown in Initial State Classification.docx
 
 ## Code
 
